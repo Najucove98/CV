@@ -1,0 +1,209 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{\vspace{-2.5em}}
+
+\begin{document}
+
+\subsection{Education}\label{education}
+
+\begin{description}
+\item[\textbf{Harvest University}]
+Cambridge, MA
+\item[M.S. in Cooking Science]
+09/2021 - 01/2023
+\item[\textbf{Huangdu Institute of Tofu}]
+Shanghai, China
+\item[B.Eng. in Salad Engineering]
+09/2016 - 07/2020
+\end{description}
+
+\subsection{Publications}\label{publications}
+
+\begin{verbatim}
+<u>Haha Ha</u>, San Zhang
+
+*Conference on Nutritional Ingredients Processing Systems (NIPS), 2099*
+\end{verbatim}
+
+\begin{verbatim}
+<u>Haha Ha</u>, San Zhang, Si Li, Wu Wang
+
+*Culinary Visualization and Potato Roasting Conference (CVPR), 2077 **(Best Paper Honorable Mention)***
+\end{verbatim}
+
+\subsection{Experience}\label{experience}
+
+\begin{description}
+\item[\textbf{Cooking Engineer Intern}]
+Microwavesoft
+
+07/2021 - Present
+\end{description}
+
+\begin{itemize}
+\tightlist
+\item
+  Developed an innovative, versatile cooking methodology applicable
+  across diverse ingredients, incorporating and improving upon recent
+  culinary trends
+\item
+  Created a streamlined cream of mushroom soup recipe, achieving results
+  comparable to complex state-of-the-art techniques through a novel
+  mushroom-cutting approach; published in NIPS 2099 (see
+  \href{**Eating\%20is\%20All\%20You\%20Need**}{\textasciitilde P1})
+\item
+  Designed a specialized cooking pan that enhanced research efficiency
+  for team members
+\end{itemize}
+
+\begin{description}
+\item[\textbf{Engineering Chef Intern}]
+University of California, Berkebake
+
+08/2020 - Present
+\end{description}
+
+\begin{itemize}
+\tightlist
+\item
+  Developed a precise mapo tofu quality assessment technique using
+  thermometer-based measurements
+\item
+  Invented a rapid stir-frying algorithm for tofu cooking, replacing
+  vague instructions like ``add as much as you can'' with specific hot
+  sauce measurements; published in CVPR 2077 (see
+  \href{**You\%20Only\%20Cook\%20Once:\%20Unified,\%20Real-Time\%20Mapo\%20Tofu\%20Recipe**}{\textasciitilde P2})
+\item
+  Outperformed SOTA cooking methods in both efficiency and quality
+  across experiments with popular tofu types
+\end{itemize}
+
+\begin{description}
+\item[\textbf{Student Chef}]
+Cabbage Melon University
+
+03/2020 - 06/2020
+\end{description}
+
+\begin{itemize}
+\tightlist
+\item
+  Developed an innovative mapo tofu consumption framework utilizing a
+  spoon-chopstick combination
+\item
+  Engineered a filtering method for tofu dataset creation, inspired by
+  bean grinding techniques
+\item
+  Established two new metrics for evaluating eating plan novelty and
+  diversity
+\item
+  Significantly surpassed existing methods and baselines in diversity,
+  novelty, and coherence
+\end{itemize}
+
+\begin{description}
+\item[\textbf{Research Chef Intern}]
+Snapchopstick
+
+07/2018 - 08/2018
+\end{description}
+
+\begin{itemize}
+\tightlist
+\item
+  Designed two novel sandwiches by repurposing breads and meat from
+  traditional bacon cheeseburgers, maximizing resource efficiency
+\item
+  Leveraged structure duality to boost cooking speed for two
+  complementary tasks based on shared ingredients
+\item
+  Surpassed strong baselines on QWE'15 and ASDF'14 dataset
+\end{itemize}
+
+\subsection{Awards and Honors}\label{awards-and-honors}
+
+\begin{description}
+\item[\textbf{Gold}, International Collegiate Catching Fish Contest
+(ICCFC)]
+2018
+\item[\textbf{First Prize}, China National Scholarship for Outstanding
+Dragon Killers]
+2017, 2018
+\end{description}
+
+\subsection{Skills}\label{skills}
+
+\textbf{Programming Languages:} Frython, JavaSauce / TypeSauce,
+Cheese++, Java Bean
+
+\textbf{Tools and Frameworks:} GrillHub, PanFlow, TensorFork, SpiceNet,
+\(\LaTeX\)
+
+\textbf{Languages:} Chinese (native), English (proficient)
+
+\end{document}

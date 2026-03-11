@@ -1,0 +1,134 @@
+---
+title: "CV - Cristian Nahuel Coveñas Zavaleta"
+author: Cristian Nahuel Coveñas Zavaleta
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Nahuel](https://media.licdn.com/dms/image/v2/D4D03AQEviA2dXupbGQ/profile-displayphoto-crop_800_800/B4DZoyHfyHJEAI-/0/1761777418706?e=1775088000&v=beta&t=X94nYHVf0rvZ_bsF1YM9iGkwgfnijJGj_CwjkKvlX1M){width=80%}
+
+
+Contacto {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> cristian.ncz1998@gmail.com
+- <i class="fa fa-github"></i> [github.com/Najucove98](https://github.com/Najucove98)
+- <i class="fa fa-phone"></i> +549 341-3888957
+- Para más información, por favor póngase en contacto conmigo vía correo electrónico.
+
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- Conocimientos básico en estadística descriptiva, inferencial, análisis de datos.
+
+- Manejo de Software estadístico como R, Python.
+
+- Manejo de herramientas de visualización de datos como R Shiny, Power BI.
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Este currículum se creó con el paquete R [**pagedown**](https://github.com/rstudio/pagedown).
+
+Última actualización `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Cristian Nahuel Coveñas Zavaleta {#title}
+--------------------------------------------------------------------------------
+
+### Estudiante de Licenciatura en Estadística | Facultad de Ciencias Económicas y Estadística | 2021 – Actualidad.
+
+Estudiante avanzado de licenciatura en estadística con manejo de modelos lineales, análisis multivariado y programación en R. Enfocado en aplicar mis conocimientos en un entorno laboral.
+
+
+Educación {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Beijing University of Chemical Technology
+
+B.S. in Information and Computing Sciences
+
+Beijing, China
+
+2010
+
+Thesis: Dyadic wavelet and its application in edge detection
+
+### University of Chinese Academy of Sciences
+
+M.S. in Bioinformatics
+
+Beijing, China
+
+2014
+
+Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data Scientist, intern
+
+SupStat Inc.
+
+Beijing, China
+
+2014
+
+::: concise
+- Taught R language to beginners. 
+- Wrote Shiny app demos.
+- Converted statistical tutorials from SPSS to R language.
+:::
+
+### Bioinformatician
+
+My Health Gene Technology Co., Ltd.
+
+Beijing, China
+
+2015 - 2016
+
+::: concise
+- Analyzed whole-exome sequencing data. 
+- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
+- Studied tumor metastasis and wrote research reports. 
+- Also did case studies to identify the genetic defect causing rare disease.
+:::
+
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Introduction to R Language for Beginners.
+
+Instructor of R and Data Mining Training Courses at SupStat Inc.
+
+Beijing, China
+
+2014
+
+### Computational Biology and Bioinformatics.
+
+Teaching assistant of GBS CB2-201 courses at UAB
+
+AL, USA
+
+2016 - 2017
+
