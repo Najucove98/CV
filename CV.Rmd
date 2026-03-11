@@ -14,26 +14,27 @@ Aside
 ================================================================================
 
 
-![Nahuel](https://media.licdn.com/dms/image/v2/D4D03AQEviA2dXupbGQ/profile-displayphoto-crop_800_800/B4DZoyHfyHJEAI-/0/1761777418706?e=1775088000&v=beta&t=X94nYHVf0rvZ_bsF1YM9iGkwgfnijJGj_CwjkKvlX1M){width=80%}
+![Nahuel](https://media.licdn.com/dms/image/v2/D4D03AQEviA2dXupbGQ/profile-displayphoto-crop_800_800/B4DZoyHfyHJEAI-/0/1761777418706?e=1775088000&v=beta&t=X94nYHVf0rvZ_bsF1YM9iGkwgfnijJGj_CwjkKvlX1M){width=70%}
 
 
-Contacto {#contact}
+Contacto {#contacto}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> cristian.ncz1998@gmail.com
-- <i class="fa fa-github"></i> [github.com/Najucove98](https://github.com/Najucove98)
-- <i class="fa fa-phone"></i> +549 341-3888957
-- Para más información, por favor póngase en contacto conmigo vía correo electrónico.
+<i class="fa fa-envelope"></i> cristian.ncz1998@gmail.com
+
+<i class="fa fa-github"></i> [github.com/Najucove98](https://github.com/Najucove98)
+
+<i class="fa fa-phone"></i> +549 341-3888957
+
+Para más información, por favor póngase en contacto conmigo vía correo electrónico.
 
 
 Habilidades {#skills}
 --------------------------------------------------------------------------------
 
-- Conocimientos básico en estadística descriptiva, inferencial, análisis de datos.
-
-- Manejo de Software estadístico como R, Python.
-
-- Manejo de herramientas de visualización de datos como R Shiny, Power BI.
+- Conocimientos básico en estadística descriptiva, análisis multivariado, inferencial, análisis de datos.
+- **Software estadístico:** R, Python, SAS.
+- **Visualización de datos:** R Shiny, Power BI.
 
 
 Disclaimer {#disclaimer}
@@ -51,36 +52,37 @@ Main
 Cristian Nahuel Coveñas Zavaleta {#title}
 --------------------------------------------------------------------------------
 
-### Estudiante de Licenciatura en Estadística | Facultad de Ciencias Económicas y Estadística | 2021 – Actualidad.
+### Estudiante de Licenciatura en Estadística
 
-Estudiante avanzado de licenciatura en estadística con manejo de modelos lineales, análisis multivariado y programación en R. Enfocado en aplicar mis conocimientos en un entorno laboral.
+Estudiante avanzado con manejo de modelos lineales, análisis multivariado y programación en R. Experiencia en el desarrollo de herramientas interactivas con Shiny y automatización de reportes. Busco mi primera experiencia profesional para aplicar técnicas de inferencia y optimización en problemas reales.
 
 
 Educación {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Beijing University of Chemical Technology
+### Primario completo
 
-B.S. in Information and Computing Sciences
+Escuela N.º 55 DOMINGO FAUSTINO SARMIENTO
 
-Beijing, China
+Rosario
 
-2010
+### Secundario completo
 
-Thesis: Dyadic wavelet and its application in edge detection
+Escuela Normal Superior N.º 1 – Dr. Nicolás Avellaneda
 
-### University of Chinese Academy of Sciences
+Rosario
 
-M.S. in Bioinformatics
+### Universitario cursando
 
-Beijing, China
+Facultad de ciencias económicas y estadística
 
-2014
+Rosario
 
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+2021 - Actualidad
 
+Cursando 4º año de Licenciatura en Estadística - Turno mañana
 
-Professional Experience {data-icon=suitcase}
+PROYECTOS DE ANÁLISIS {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ### Data Scientist, intern
@@ -113,22 +115,18 @@ Beijing, China
 :::
 
 
-Teaching Experience {data-icon=chalkboard-teacher}
+Experiencia Docente {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Introduction to R Language for Beginners.
+### Programación 1.
 
-Instructor of R and Data Mining Training Courses at SupStat Inc.
+Ayudante de cátedra en programación 1.
 
-Beijing, China
+FCEyE
 
-2014
+2025
 
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
-
+::: concise
+- Facilitar el aprendizaje de conceptos de lógica de programación y estructuras de datos en comisiones de trabajos prácticos. 
+- Brindar mentoría técnica y resolución de dudas para el desarrollo de proyectos (TP).
+:::
