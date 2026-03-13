@@ -6,8 +6,6 @@ output:
   pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
-# uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
 ---
 
 Aside
@@ -35,15 +33,6 @@ Habilidades {#skills}
 - Conocimientos básico en estadística descriptiva, análisis multivariado, inferencial, análisis de datos.
 - **Software estadístico:** R, Python, SAS.
 - **Visualización de datos:** R Shiny, Power BI.
-
-
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
-
-Este currículum se creó con el paquete R [**pagedown**](https://github.com/rstudio/pagedown).
-
-Última actualización `r Sys.Date()`.
-
 
 
 Main
@@ -85,34 +74,26 @@ Cursando 4º año de Licenciatura en Estadística - Turno mañana
 PROYECTOS DE ANÁLISIS {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Data Scientist, intern
+### Dashboard Interactivo de Tráfico Web
 
-SupStat Inc.
+Desarrollo de una aplicacion web en Shiny. [**Link**](https://naju-shinyapp.shinyapps.io/Aranda_Covenias/)
 
-Beijing, China
+FCEyE
 
-2014
-
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
-
-### Bioinformatician
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
+2025
 
 ::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
+- Uso de herramientas y conocimientos en programacion.
+- Habilidades en el procesamiento de la base de datos para los objetivos de interes.
 :::
+
+### Análisis Multivariado de Datos (NBA)
+
+Base de datos sobre rendimiento deportivo de nuevos jugadores de la NBA en los años 1980-2000. [**Base**](https://www.kaggle.com/datasets/drgilermo/nba-players-stats)
+
+FCEyE
+
+2025
 
 
 Experiencia Docente {data-icon=chalkboard-teacher}
